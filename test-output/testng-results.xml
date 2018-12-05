@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37659" started-at="2018-12-04T17:19:20Z" finished-at="2018-12-04T17:19:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37659" started-at="2018-12-04T17:19:20Z" finished-at="2018-12-04T17:19:58Z">
+      <class name="com.test.framework.LoginTestPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.framework.LoginTestPage@799f10e1]" name="setUp" is-config="true" duration-ms="3456" started-at="2018-12-04T17:19:20Z" finished-at="2018-12-04T17:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testOrangePageHrm()[pri:0, instance:com.test.framework.LoginTestPage@799f10e1]" name="testOrangePageHrm" duration-ms="33402" started-at="2018-12-04T17:19:23Z" finished-at="2018-12-04T17:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrangePageHrm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.framework.LoginTestPage@799f10e1]" name="tearDown" is-config="true" duration-ms="778" started-at="2018-12-04T17:19:57Z" finished-at="2018-12-04T17:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.framework.LoginTestPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
